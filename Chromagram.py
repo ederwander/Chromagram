@@ -99,7 +99,7 @@ for i in reversed(range(FlipMatrix.shape[0])):
 	min_value.append(value)
 
 
-#Numpy Array for Chrome Scale population
+#Numpy Array for Chroma Scale population
 CS = np.zeros((len(chroma),Pxx.shape[1]))
 
 Magnitude= np.log(abs(Pxx[1:,]))
