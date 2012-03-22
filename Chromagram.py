@@ -35,10 +35,7 @@ tunechroma2=[int(np.log2(A5*st**i)) for i in range(nbin)]
 
 chroma=np.asarray(tunechroma1)-np.asarray(tunechroma2);
 
-#spf = wave.open('piano-chrom.wav','r')
-#spf = wave.open('mandel.wav','r')
-#spf = wave.open('kids.wav','r')
-#spf = wave.open('Chroma.wav','r')
+
 spf = wave.open('Animal_cut.wav','r')
 
 #Extract Raw Audio from Wav File
