@@ -1,4 +1,5 @@
 #Author: ederwander
+#http://ederwander.wordpress.com/2012/03/22/chromagram/
 #Date: 11/02/2012
 
 import matplotlib.pyplot as plt
