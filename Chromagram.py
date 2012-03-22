@@ -23,7 +23,7 @@ st=2**(1/float(nbin))
 #Step
 step=128
 
-#Used for Downsaple Signal
+#Used for Downsample Signal
 fr=11025
 
 #DownSample Factor
